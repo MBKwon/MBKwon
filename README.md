@@ -1,5 +1,5 @@
 ### Hi there 👋
-It is [me](http://kr.linkedin.com/in/mbkwon)
+### It's [ME](http://kr.linkedin.com/in/mbkwon)
 
 <!--
 **MBKwon/MBKwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
