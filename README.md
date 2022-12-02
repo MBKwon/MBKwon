@@ -6,7 +6,7 @@
 ## Current Company
 Phoenix Darts - Director
 
-## Ex-Commpany
+## Ex-Company
 1. Coupang - Senior Principal
 2. Naver - Tech Lead
 3. Wemap - iOS developer
