@@ -7,7 +7,7 @@
 Phoenix Darts - Director
 
 ## Ex-Commpany
-1. Coupang : Senior Principal
+1. Coupang - Senior Principal
 2. Naver - Tech Lead
 3. Wemap - iOS developer
 4. Uangel - iOS developer
