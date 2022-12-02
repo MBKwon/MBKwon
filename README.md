@@ -3,8 +3,10 @@
 [![MBKwon's github stats](https://github-readme-stats.vercel.app/api?username=MBKwon&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MBKwon&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-Current Commpany) Phoenix Darts - Director
-Ex-Commpany)
+## Current Company
+Phoenix Darts - Director
+
+## Ex-Commpany
 1. Coupang : Senior Principal
 2. Naver - Tech Lead
 3. Wemap - iOS developer
