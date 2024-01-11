@@ -3,8 +3,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=32c632&height=200&section=header&text=MB%20Brad%20KWON&fontAlignY=40&fontSize=70&fontColor=#f0f0f0)
 
-### Current
-Coupang
+## Coupang - Staff Software Engineer
 
 ### Career
 Coupang - Staff Software Engineer II </br>
