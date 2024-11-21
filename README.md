@@ -1,7 +1,7 @@
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=32c632&height=200&section=header&text=MB%20Brad%20KWON&fontAlignY=40&fontSize=70&fontColor=#f0f0f0)
+![header](https://capsule-render.vercel.app/api?type=waving&color=32c632&height=200&section=header&text=MB%20Kyle%20KWON&fontAlignY=40&fontSize=70&fontColor=#f0f0f0)
 
 ## Coupang - Staff Software Engineer
 
