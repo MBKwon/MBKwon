@@ -8,7 +8,7 @@
 ### Career
 Coupang - Staff Software Engineer II </br>
 Phoenix Darts - Director </br>
-Naver - Tech Lead </br>
+NAVER - Tech Lead </br>
 Wemap - iOS developer </br>
 Uangel - iOS developer </br>
 
